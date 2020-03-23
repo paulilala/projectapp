@@ -1,2 +1,2 @@
 # projectapp
-Exercises on Laravel
+Exercises on Laravel Project
